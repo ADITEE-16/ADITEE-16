@@ -30,6 +30,7 @@ Btech student<br>AI enthusiast
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -45,4 +46,8 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
