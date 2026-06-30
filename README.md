@@ -50,4 +50,5 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
