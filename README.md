@@ -14,3 +14,11 @@ Btech student<br>AI enthusiast
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ADITEE-16&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
