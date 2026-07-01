@@ -39,6 +39,7 @@ Btech student<br>AI enthusiast
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
@@ -53,4 +54,12 @@ Btech student<br>AI enthusiast
 | [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
