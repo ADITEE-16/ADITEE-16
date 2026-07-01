@@ -43,6 +43,7 @@ Btech student<br>AI enthusiast
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
+| [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -58,8 +59,17 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+| [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
