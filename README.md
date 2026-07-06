@@ -59,6 +59,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+| [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
@@ -72,9 +73,11 @@ Btech student<br>AI enthusiast
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 <!---LeetCode Topics End-->
