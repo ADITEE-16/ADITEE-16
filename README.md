@@ -59,6 +59,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+| [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
@@ -72,4 +73,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 <!---LeetCode Topics End-->
