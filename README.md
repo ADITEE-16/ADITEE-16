@@ -20,6 +20,7 @@ Btech student<br>AI enthusiast
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADITEE-16/ADITEE-16/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
@@ -30,6 +31,7 @@ Btech student<br>AI enthusiast
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
@@ -53,6 +55,7 @@ Btech student<br>AI enthusiast
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0237-delete-node-in-a-linked-list) |
