@@ -66,6 +66,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
@@ -86,4 +87,12 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
