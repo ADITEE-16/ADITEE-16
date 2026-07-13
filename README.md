@@ -49,6 +49,7 @@ Btech student<br>AI enthusiast
 | [0141-linked-list-cycle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@ Btech student<br>AI enthusiast
 | [0141-linked-list-cycle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0234-palindrome-linked-list) |
@@ -102,6 +104,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 ## Matrix
