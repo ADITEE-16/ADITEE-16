@@ -63,6 +63,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ADITEE-16/ADITEE-16/tree/master/0203-remove-linked-list-elements) |
