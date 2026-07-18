@@ -66,6 +66,7 @@ Btech student<br>AI enthusiast
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 ## Linked List
@@ -93,6 +94,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ADITEE-16/ADITEE-16/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
@@ -153,4 +155,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
