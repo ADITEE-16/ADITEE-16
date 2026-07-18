@@ -99,6 +99,7 @@ Btech student<br>AI enthusiast
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITEE-16/ADITEE-16/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
@@ -148,4 +149,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
