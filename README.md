@@ -98,6 +98,7 @@ Btech student<br>AI enthusiast
 | [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ADITEE-16/ADITEE-16/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ Btech student<br>AI enthusiast
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ADITEE-16/ADITEE-16/tree/master/0035-search-insert-position) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
