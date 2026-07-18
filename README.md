@@ -105,6 +105,7 @@ Btech student<br>AI enthusiast
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITEE-16/ADITEE-16/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
@@ -118,6 +119,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ADITEE-16/ADITEE-16/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
