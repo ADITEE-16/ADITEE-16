@@ -51,6 +51,7 @@ Btech student<br>AI enthusiast
 | [0027-remove-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
@@ -95,6 +96,7 @@ Btech student<br>AI enthusiast
 | [0027-remove-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
@@ -103,6 +105,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
