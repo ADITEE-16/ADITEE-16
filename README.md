@@ -87,6 +87,7 @@ Btech student<br>AI enthusiast
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADITEE-16/ADITEE-16/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
@@ -109,6 +110,7 @@ Btech student<br>AI enthusiast
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADITEE-16/ADITEE-16/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
