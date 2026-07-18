@@ -27,6 +27,7 @@ Btech student<br>AI enthusiast
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -92,6 +93,7 @@ Btech student<br>AI enthusiast
 | [0001-two-sum](https://github.com/ADITEE-16/ADITEE-16/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
@@ -135,6 +137,7 @@ Btech student<br>AI enthusiast
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
