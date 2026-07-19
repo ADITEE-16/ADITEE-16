@@ -23,6 +23,7 @@ Btech student<br>AI enthusiast
 | [0002-add-two-numbers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADITEE-16/ADITEE-16/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ Btech student<br>AI enthusiast
 | [0142-linked-list-cycle-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
@@ -105,6 +107,7 @@ Btech student<br>AI enthusiast
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITEE-16/ADITEE-16/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
