@@ -62,6 +62,7 @@ Btech student<br>AI enthusiast
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ADITEE-16/ADITEE-16/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -112,6 +113,7 @@ Btech student<br>AI enthusiast
 | [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ADITEE-16/ADITEE-16/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ADITEE-16/ADITEE-16/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
