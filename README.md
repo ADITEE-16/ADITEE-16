@@ -72,6 +72,7 @@ Btech student<br>AI enthusiast
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
 ## Linked List
 |  |
 | ------- |
@@ -184,4 +185,8 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
