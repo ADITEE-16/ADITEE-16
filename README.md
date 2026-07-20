@@ -72,6 +72,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
@@ -128,6 +129,7 @@ Btech student<br>AI enthusiast
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITEE-16/ADITEE-16/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -151,6 +153,7 @@ Btech student<br>AI enthusiast
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITEE-16/ADITEE-16/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
