@@ -71,6 +71,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ADITEE-16/ADITEE-16/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ADITEE-16/ADITEE-16/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
@@ -169,6 +170,7 @@ Btech student<br>AI enthusiast
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ADITEE-16/ADITEE-16/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
