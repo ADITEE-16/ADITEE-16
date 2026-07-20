@@ -10,13 +10,27 @@ public:
         //     }
         // }
         // return false;
-        unordered_set<int> st;
-        for(int x : nums){
-            if(st.find(x)!=st.end()){
+        // unordered_set<int> st;
+        // for(int x : nums){
+        //     if(st.find(x)!=st.end()){
+        //         return true;
+        //     }
+        //     else{
+        //         st.insert(x);
+        //     }
+        // }
+        // return false;
+        unordered_map<int,int> mpp;
+        for(int x:nums){
+            mpp[x]++;
+        }
+        for(auto it: mpp){
+            if(it.second!=1){
                 return true;
+                break;
             }
             else{
-                st.insert(x);
+                continue;
             }
         }
         return false;
