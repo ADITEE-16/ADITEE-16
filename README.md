@@ -118,6 +118,7 @@ Btech student<br>AI enthusiast
 | [0219-contains-duplicate-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ADITEE-16/ADITEE-16/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
@@ -133,6 +134,7 @@ Btech student<br>AI enthusiast
 | [0217-contains-duplicate](https://github.com/ADITEE-16/ADITEE-16/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
