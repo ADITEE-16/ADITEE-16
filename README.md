@@ -115,6 +115,7 @@ Btech student<br>AI enthusiast
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ADITEE-16/ADITEE-16/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ADITEE-16/ADITEE-16/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
@@ -154,6 +155,7 @@ Btech student<br>AI enthusiast
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITEE-16/ADITEE-16/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITEE-16/ADITEE-16/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
@@ -204,4 +206,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
