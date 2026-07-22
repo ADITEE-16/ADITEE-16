@@ -102,6 +102,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ADITEE-16/ADITEE-16/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ADITEE-16/ADITEE-16/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0027-remove-element) |
@@ -139,6 +140,7 @@ Btech student<br>AI enthusiast
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ADITEE-16/ADITEE-16/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ADITEE-16/ADITEE-16/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@ Btech student<br>AI enthusiast
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ADITEE-16/ADITEE-16/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITEE-16/ADITEE-16/tree/master/0169-majority-element) |
