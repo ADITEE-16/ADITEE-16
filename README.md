@@ -30,6 +30,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITEE-16/ADITEE-16/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -114,6 +115,7 @@ Btech student<br>AI enthusiast
 | [0053-maximum-subarray](https://github.com/ADITEE-16/ADITEE-16/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ADITEE-16/ADITEE-16/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITEE-16/ADITEE-16/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADITEE-16/ADITEE-16/tree/master/0167-two-sum-ii-input-array-is-sorted) |
