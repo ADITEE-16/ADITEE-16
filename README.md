@@ -130,6 +130,7 @@ Btech student<br>AI enthusiast
 | [0414-third-maximum-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
+| [0665-non-decreasing-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
