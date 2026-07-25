@@ -22,8 +22,8 @@ public:
         return prev;
     }
     ListNode* getKNode(ListNode* temp,int k){
-        //k-=1;
-        while(temp!=NULL && k>1){
+        k-=1;
+        while(temp!=NULL && k>0){
             k--;
             temp=temp->next;
         }
