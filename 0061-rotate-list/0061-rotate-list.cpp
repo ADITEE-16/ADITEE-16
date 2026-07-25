@@ -50,7 +50,7 @@ public:
             count++;
             temp=temp->next;
         }
-        
+        if(k%count==0) return head;
         k = k % count;
         if(k == 0)
             return head;
