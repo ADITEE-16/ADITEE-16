@@ -58,9 +58,9 @@ public:
         ListNode* newTail = head;
         for(int i = 1; i < count - k; i++)
             newTail = newTail->next;
-        ListNode* temp1=newTail->next;
+        head=newTail->next;
         //head=temp1;
         newTail->next=NULL;
-        return temp1;
+        return head;
     }
 };
