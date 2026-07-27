@@ -147,6 +147,7 @@ Btech student<br>AI enthusiast
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [1550-three-consecutive-odds](https://github.com/ADITEE-16/ADITEE-16/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/ADITEE-16/ADITEE-16/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
@@ -203,6 +204,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ADITEE-16/ADITEE-16/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
