@@ -95,6 +95,7 @@ Btech student<br>AI enthusiast
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ADITEE-16/ADITEE-16/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/ADITEE-16/ADITEE-16/tree/master/3019-number-of-changing-keys) |
 ## Linked List
 |  |
 | ------- |
