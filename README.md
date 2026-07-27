@@ -280,4 +280,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ADITEE-16/ADITEE-16/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
