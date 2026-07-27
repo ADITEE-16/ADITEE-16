@@ -145,6 +145,7 @@ Btech student<br>AI enthusiast
 | [0665-non-decreasing-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
+| [1550-three-consecutive-odds](https://github.com/ADITEE-16/ADITEE-16/tree/master/1550-three-consecutive-odds) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ADITEE-16/ADITEE-16/tree/master/2798-number-of-employees-who-met-the-target) |
