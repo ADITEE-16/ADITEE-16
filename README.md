@@ -151,6 +151,7 @@ Btech student<br>AI enthusiast
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ADITEE-16/ADITEE-16/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
@@ -165,6 +166,7 @@ Btech student<br>AI enthusiast
 | [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0414-third-maximum-number) |
+| [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
@@ -206,6 +208,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
+| [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
@@ -257,4 +260,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
