@@ -86,6 +86,7 @@ Btech student<br>AI enthusiast
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Btech student<br>AI enthusiast
 | [0665-non-decreasing-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
