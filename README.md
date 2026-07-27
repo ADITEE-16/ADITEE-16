@@ -94,6 +94,7 @@ Btech student<br>AI enthusiast
 | [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/ADITEE-16/ADITEE-16/tree/master/2942-find-words-containing-character) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Btech student<br>AI enthusiast
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ADITEE-16/ADITEE-16/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/ADITEE-16/ADITEE-16/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
