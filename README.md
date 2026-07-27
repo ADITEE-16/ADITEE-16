@@ -78,6 +78,7 @@ Btech student<br>AI enthusiast
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## String
 |  |
@@ -91,6 +92,7 @@ Btech student<br>AI enthusiast
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/ADITEE-16/ADITEE-16/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ Btech student<br>AI enthusiast
 | [1550-three-consecutive-odds](https://github.com/ADITEE-16/ADITEE-16/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/ADITEE-16/ADITEE-16/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ADITEE-16/ADITEE-16/tree/master/2798-number-of-employees-who-met-the-target) |
