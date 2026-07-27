@@ -27,6 +27,7 @@ Btech student<br>AI enthusiast
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/ADITEE-16/ADITEE-16/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ADITEE-16/ADITEE-16/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -238,6 +239,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1486-xor-operation-in-an-array) |
 ## Trie
 |  |
 | ------- |
