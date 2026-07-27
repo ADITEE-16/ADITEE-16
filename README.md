@@ -150,6 +150,7 @@ Btech student<br>AI enthusiast
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ADITEE-16/ADITEE-16/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0665-non-decreasing-array) |
+| [0682-baseball-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ADITEE-16/ADITEE-16/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [1550-three-consecutive-odds](https://github.com/ADITEE-16/ADITEE-16/tree/master/1550-three-consecutive-odds) |
@@ -218,6 +219,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ADITEE-16/ADITEE-16/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 | [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 ## Stack
@@ -225,6 +227,7 @@ Btech student<br>AI enthusiast
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADITEE-16/ADITEE-16/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ADITEE-16/ADITEE-16/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
