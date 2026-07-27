@@ -29,6 +29,7 @@ Btech student<br>AI enthusiast
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 | [2652-sum-multiples](https://github.com/ADITEE-16/ADITEE-16/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ADITEE-16/ADITEE-16/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Btech student<br>AI enthusiast
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ADITEE-16/ADITEE-16/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2670-find-the-distinct-difference-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/2670-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ADITEE-16/ADITEE-16/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
@@ -160,6 +162,7 @@ Btech student<br>AI enthusiast
 | [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0414-third-maximum-number) |
+| [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
