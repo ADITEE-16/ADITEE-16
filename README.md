@@ -24,6 +24,7 @@ Btech student<br>AI enthusiast
 | [0007-reverse-integer](https://github.com/ADITEE-16/ADITEE-16/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -191,6 +192,7 @@ Btech student<br>AI enthusiast
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
 ## Stack
 |  |
@@ -239,4 +241,8 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
