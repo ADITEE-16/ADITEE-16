@@ -28,6 +28,7 @@ Btech student<br>AI enthusiast
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 | [2652-sum-multiples](https://github.com/ADITEE-16/ADITEE-16/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ADITEE-16/ADITEE-16/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
