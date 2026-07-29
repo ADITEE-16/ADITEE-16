@@ -33,6 +33,7 @@ Btech student<br>AI enthusiast
 | [2769-find-the-maximum-achievable-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ADITEE-16/ADITEE-16/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ADITEE-16/ADITEE-16/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Btech student<br>AI enthusiast
 | [2942-find-words-containing-character](https://github.com/ADITEE-16/ADITEE-16/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ADITEE-16/ADITEE-16/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ADITEE-16/ADITEE-16/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3356-zero-array-transformation-ii](https://github.com/ADITEE-16/ADITEE-16/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
