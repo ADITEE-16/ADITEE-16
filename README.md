@@ -23,6 +23,7 @@ Btech student<br>AI enthusiast
 | [0002-add-two-numbers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADITEE-16/ADITEE-16/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
@@ -245,6 +246,7 @@ Btech student<br>AI enthusiast
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ADITEE-16/ADITEE-16/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1486-xor-operation-in-an-array) |
