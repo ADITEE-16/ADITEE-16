@@ -28,6 +28,7 @@ Btech student<br>AI enthusiast
 | [0189-rotate-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ADITEE-16/ADITEE-16/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ADITEE-16/ADITEE-16/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ADITEE-16/ADITEE-16/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -97,6 +98,7 @@ Btech student<br>AI enthusiast
 | [0242-valid-anagram](https://github.com/ADITEE-16/ADITEE-16/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/ADITEE-16/ADITEE-16/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ADITEE-16/ADITEE-16/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ADITEE-16/ADITEE-16/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ADITEE-16/ADITEE-16/tree/master/0796-rotate-string) |
@@ -225,6 +227,7 @@ Btech student<br>AI enthusiast
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ADITEE-16/ADITEE-16/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ADITEE-16/ADITEE-16/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ADITEE-16/ADITEE-16/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ADITEE-16/ADITEE-16/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ADITEE-16/ADITEE-16/tree/master/0867-transpose-matrix) |
